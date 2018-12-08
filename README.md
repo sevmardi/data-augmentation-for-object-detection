@@ -1,2 +1,8 @@
-# data-augmentation-for-object-detection
-Data Augmentation For Object Detection https://blog.paperspace.com/data-augmentation-for-bounding-boxes/
+# Data Augmentation for Object Detection
+
+
+
+## Dependencies
+** OpenCV 3.x
+** Numpy
+** Matplotlib
